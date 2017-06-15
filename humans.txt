@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Eric Tercasio> -- <Creator> -- <twitter.com/EricTercasio>
 
 # THANKS
 
-    <name>
+    <Professor Chen>
 
 # TECHNOLOGY COLOPHON
 
